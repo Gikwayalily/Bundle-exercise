@@ -22,6 +22,19 @@ PS C:\Users\dotto\OneDrive\Desktop\thegym> git commit -m "addition of home page 
  create mode 100644 home.html
  create mode 100644 readme.md
 PS C:\Users\dotto\OneDrive\Desktop\thegym> 
+ 
+ About-us page
 
-        
+        (use "git restore <file>..." to discard changes in working directory)
+        modified:   about-us.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+PS C:\Users\dotto\OneDrive\Desktop\thegym> git add about-us.html
+PS C:\Users\dotto\OneDrive\Desktop\thegym> git stash
+Saved working directory and index state WIP on main: 80a1255 addition of about-us file
+PS C:\Users\dotto\OneDrive\Desktop\thegym> git stash list
+stash@{0}: WIP on main: 80a1255 addition of about-us file
+PS C:\Users\dotto\OneDrive\Desktop\thegym>
+
+
 
